@@ -29,13 +29,13 @@ class DetailsPage extends StatelessWidget {
       body: Column(
         children: [
           Expanded(
-            child: ListViewWidget(data: waveHeight, title: 'Wave Height (m)'),
+            child: ListViewWidget(data: waveHeight!.take(24).toList(), title: 'Wave Height (m)'),
           ),
           Expanded(
-            child: ListViewWidget(data: temperature2m, title: 'Temperature (°C)'),
+            child: ListViewWidget(data: temperature2m!.take(24).toList(), title: 'Temperature (°C)'),
           ),
           Expanded(
-            child: ListViewWidget(data: windspeed10m, title: 'Wind Speed (m/s)'),
+            child: ListViewWidget(data: windspeed10m!.take(24).toList(), title: 'Wind Speed (m/s)'),
           ),
         ]
       )
