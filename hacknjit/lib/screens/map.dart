@@ -71,6 +71,7 @@ class _MapScreenState extends State<MapScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
+        backgroundColor: Colors.blue[600],
         title: const Text('Nautical Safety'),
         elevation: 2,
       ),
