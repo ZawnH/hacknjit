@@ -72,7 +72,7 @@ class _MapScreenState extends State<MapScreen> {
     return Scaffold(
       appBar: AppBar(
         backgroundColor: Colors.blue[600],
-        title: const Text('Nautical Safety'),
+        title: const Text('FishermenDual'),
         elevation: 2,
       ),
       body: _center == null

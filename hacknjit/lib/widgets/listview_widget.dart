@@ -36,6 +36,7 @@ class ListViewWidget extends StatelessWidget {
               return Card(
                 margin: const EdgeInsets.symmetric(horizontal: 8.0, vertical: 4.0),
                 child: Container(
+                  decoration: BoxDecoration(borderRadius: BorderRadius.circular(10)),
                   width: 100.0,
                   padding: const EdgeInsets.all(8.0),
                   child: Column(
