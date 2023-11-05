@@ -24,7 +24,7 @@ if (flutterVersionName == null) {
 
 android {
     defaultConfig {
-        minSdkVersion 20                   // Set to 20
+        minSdkVersion 33                // Set to 20
         applicationId "com.example.hacknjit"
         targetSdkVersion flutter.targetSdkVersion
         versionCode flutterVersionCode.toInteger()

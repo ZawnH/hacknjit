@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
+
 import 'controllers/global_controller.dart';
 import 'screens/map.dart';
 
@@ -8,7 +9,6 @@ void main() {
     MultiProvider(
       providers: [
         ChangeNotifierProvider(create: (context) => GlobalController()),
-        // ... other providers if any
       ],
       child: const MyApp(),
     ),
@@ -24,10 +24,10 @@ class MyApp extends StatelessWidget {
     return ChangeNotifierProvider(
       create: (context) => GlobalController(),
       child: MaterialApp(
-        title: 'gg',
+        title: 'HACKNJIT',
         theme: ThemeData(
           useMaterial3: true,
-          colorSchemeSeed: Colors.green[700],
+          colorSchemeSeed: Colors.blue[800],
         ),
         home: const MapScreen(),
         debugShowCheckedModeBanner: false,
