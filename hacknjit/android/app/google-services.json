@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "651061116009",
+    "project_id": "hacknjit-10847",
+    "storage_bucket": "hacknjit-10847.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651061116009:android:4590d266cd5653c2fa36f8",
+        "android_client_info": {
+          "package_name": "com.example.njit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-V5THQAnJdvwfXn_6wbW5tQkGTCZfWb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
