@@ -1,6 +1,6 @@
 # hacknjit
 
-"FishermanDuel," provides weather forecasting for ocean fishermen which allows users to select their destination directly from a map. It also offers an emergency tracking feature that updates the user's location every two hours if they opt in. With "FishermanDuel," you're not just getting a weather forecasting tool; you're getting a comprehensive solution that caters to your safety and convenience while out on the open ocean.
+"FishermenDuel" is your all-in-one solution for ocean fishing. It offers precise weather forecasting, allowing users to effortlessly choose their destination directly from a map. It also offers an emergency tracking feature that updates the user's location every two hours if they opt in. With "FishermanDuel," you're not just getting a weather forecasting tool; you're getting a comprehensive solution that caters to your safety and convenience while out on the open ocean.
 
 "FishermanDuel" is an innovative solution designed to enhance the fishing experience in the vast expanse of the ocean. With this cutting-edge tool, fishermen can effortlessly access real-time weather forecasts for their chosen fishing locations. Instead of searching city which unappropriate in nautical; instead, users can simply pick their destination directly from a map, streamlining the planning process and ensuring they make the most of their time at sea.
 
